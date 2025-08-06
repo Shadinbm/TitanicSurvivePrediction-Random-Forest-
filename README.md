@@ -1,9 +1,4 @@
-Great — you’ve uploaded:
 
-* ✅ A Jupyter notebook: `TitanicRandomforest.ipynb`
-* ✅ A dataset: `titanic.csv`
-
-So here's a **professional GitHub README.md** for your Titanic Random Forest project:
 
 ---
 
