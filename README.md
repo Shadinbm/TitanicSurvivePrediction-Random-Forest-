@@ -56,12 +56,6 @@ This project applies machine learning (Random Forest Classifier) to predict surv
 
 ---
 
-## 📧 Contact
-
-**Muhammed Shadin Bm**
-*Data Science Student*
-[GitHub](https://github.com/your-username) • [LinkedIn](#)
-
 ---
 
 ```
